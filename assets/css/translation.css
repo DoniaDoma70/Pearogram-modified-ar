@@ -1,0 +1,53 @@
+/*         Index         */
+
+/*--font--*/
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Noto+Sans+Arabic:wght@200&display=swap');
+
+body{
+    font-family: 'El Messiri', sans-serif;
+}
+
+p, li{
+    font-family: 'Almarai', sans-serif;
+}
+
+.intro .intro-description p{
+    padding: 0;
+}
+
+.welcome-speech a{
+    padding: 10px 30px;
+    font-size: 15px;
+    border: 1px solid #000;
+    border-radius: 0px;
+}
+
+.welcome-speech a:hover{
+    color: #fff;
+}
+
+.owl-carousel{
+    direction: ltr;
+}
+
+.portfolio-item .item-description span.like{
+    float: left;
+}
+
+.footer-widget .respect{
+    float: left;
+}
+
+.footer-links li:hover a{
+    text-decoration: none;
+}
+
+.footer-links #usefulLinkHour{
+    margin-right: 15px;
+}
+
+#main-nav-collapse a:hover{
+    background-color: transparent;
+}
+
